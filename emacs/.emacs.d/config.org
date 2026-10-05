@@ -53,7 +53,7 @@
               "Yadā yadā hi dharmasya glānir bhavati bhārata |
   Abhyutthānam adharmasya tadātmānaṁ sṛjāmyaham |"
               "Karmaṇy evādhikāras te mā phaleṣu kadācana,
-mā karma-phala-hetur bhūr mā te saṅgo stv akarmaṇi"
+mā karma-phala-hetur bhūr mā te saṅgo stv akarmaṇi")
             dashboard-banner-logo-title "eBits Emacs"
             dashboard-center-content t
             dashboard-vertically-center-content t
